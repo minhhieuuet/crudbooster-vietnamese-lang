@@ -1,0 +1,277 @@
+<?php
+return [
+    'email_footer' => 'Không trả lời bất kỳ email nào tới địa chỉ email này. Email này được hệ thống của chúng tôi gửi tự động. ',
+    
+    'login_message' => 'Vui lòng đăng nhập để bắt đầu phiên của bạn',
+    'text_forgot_password' => 'Quên mật khẩu?',
+    'page_title_login' => 'Bảng Đăng nhập',
+    'page_title_forgot' => 'Quên Mật khẩu',
+    'forgot_message' => 'Nhập địa chỉ email của bạn, để yêu cầu mật khẩu',
+    "forgot_text_try_again" => "Thử đăng nhập lại?",
+    'text_no_notification' => "Bạn có 0 thông báo",
+    'text_view_all_notification' => 'Xem Tất cả',
+    'label_button_profile' => "Profile",
+    'filter_dialog_title' => 'Advanced Sort & Filter',
+    'there_is_no_option' => 'Không có bất kỳ cài đặt tùy chọn nào cho inputType này',
+    'no' => 'Không',
+
+    
+'text_enter_the_password' => 'Nhập mật khẩu của bạn để truy xuất phiên của bạn',
+    'text_or_sign_in' => 'Hoặc đăng nhập với tư cách người dùng khác',
+    'text_default_add_new_module' => 'Thêm mới :module',
+    'text_default_list_module' => 'Danh sách :module',
+    'text_default_help_password' => 'Tối thiểu 5 ký tự. Vui lòng để trống nếu bạn không thay đổi mật khẩu. ',
+    'text_default_help_upload' => 'Hỗ trợ loại tệp: JPG, JPEG, PNG, GIF, BMP',
+    'text_default_help_number' => 'Bạn chỉ có thể nhập số duy nhất',
+    'text_default_help_email' => 'Vui lòng nhập địa chỉ email hợp lệ',
+    'text_default_help_text' => 'Bạn chỉ có thể nhập chữ cái',
+    'text_default_help_url' => 'Vui lòng nhập URL hợp lệ',
+    'text_dashboard' => 'Trang chủ',
+    'text_delete' => 'Xoá',
+    'text_prefix_option' => '** Vui lòng chọn',
+    'text_loading' => 'Vui lòng chờ  ...',
+
+    
+    'message_after_logout' => 'Cảm ơn bạn, Hẹn gặp lại sau!',
+    'message_forgot_password' => 'Chúng tôi đã gửi mật khẩu mới cho email của bạn, hãy kiểm tra hộp thư đến hoặc hộp thư rác!',
+
+    'page_not_found' => 'Rất tiếc! No page found ',
+    'page_not_found_text' => 'Chúng tôi không thể tìm kiếm trang mà bạn đang tìm kiếm.',
+    'page_not_found_tips' => '* Hãy đảm bảo URL chính xác <br/>
+                * Vui lòng đảm bảo viết hoa chữ là chính xác vì phân biệt chữ hoa chữ thường <br/>
+                * Có thể trang bạn đang tìm kiếm đã bị xóa bởi Admin <br/>
+                * Bạn có thể quay lại bằng cách nhấp vào Nút Quay lại tại trình duyệt <br/> ',
+
+    'log_try_view' => 'Thử xem dữ liệu:name tại :module',
+    'log_try_edit' => 'Thử chỉnh sửa dữ liệu:name tại :module',
+    'log_try_add' => 'Thử thêm dữ liệu tại: module',
+    'log_try_add_save' => 'Thử thêm dữ liệu:name tại:module',
+    'log_try_delete' => 'Thử xóa dữ liệu:name tại:module',
+    'log_try_delete_selected' => 'Thử xóa được chọn tại: module',
+    'log_try_delete_image' => 'Thử xóa hình ảnh của:name dữ liệu tại: module',
+    'log_try_update' => 'Thử cập nhật:name dữ liệu tại :module',
+    'log_add' => 'Thêm dữ liệu mới:name tại :module',
+    'log_update' => 'Cập nhật dữ liệu:name tại :module',
+    'log_delete' => 'Xóa dữ liệu :name tại:module',
+    'log_delete_image' => 'Xóa hình ảnh của :name tại :module',
+    'log_login' => ': đăng nhập bằng email có địa chỉ IP :ip',
+    'log_forgot' => 'Ai đó có IP :ip yêu cầu mật khẩu cho :email',
+    'log_logout' => ':email đăng xuất ',
+
+   
+    'alert_delete_selected' => 'Bạn có chắc chắn muốn xóa tất cả dữ liệu đã chọn?',
+    'alert_delete_selected_success' => 'Xóa thành công đã chọn!',
+    'alert_bulk_action_button' => 'Bạn có chắc chắn muốn',
+    'alert_action' => 'Bạn có: hành động thành công!',
+    'alert_add_data_success' => 'Dữ liệu đã được thêm!',
+    'alert_add_data_failed' => 'Không thể lưu dữ liệu!',
+    'alert_update_data_success' => 'Dữ liệu đã được cập nhật!',
+    'alert_update_data_failed' => 'Không thể cập nhật dữ liệu',
+    'alert_delete_data_success' => 'Xóa dữ liệu thành công!',
+    'alert_want_to_logout' => 'Bạn có muốn đăng xuất không?',
+    'alert_warning' => "Rất tiếc",
+    'alert_danger' => 'Đã xảy ra sự cố ....',
+    'alert_success' => 'Wow, đã xong ...',
+    'alert_info' => 'Thông tin',
+    'alert_primary' => 'Thông tin',
+    'alert_session_expired' => 'Phiên của bạn đã hết hạn, vui lòng đăng nhập lại!',
+    'alert_password_wrong' => 'Xin lỗi mật khẩu của bạn sai!',
+    'alert_required' => 'Hãy đảm bảo điền vào tất cả các trường bắt buộc một cách chính xác',
+    'alert_error_ajax' => 'Được rồi, nó đang bắt đầu, đã xảy ra sự cố, chúng tôi sẽ sớm khắc phục!',
+    'alert_validation_error' => 'Vui lòng điền vào biểu mẫu chính xác:: error',
+    'alert_select_a_data' => 'Vui lòng chọn ít nhất một dữ liệu!',
+
+    
+'add_data_page_title' => 'Thêm :module',
+    'edit_data_page_title' => 'Chỉnh sửa :module',
+    'detail_data_page_title' => 'Chi tiết :module',
+
+    'default_module_description' => 'Danh sách Dữ liệu',
+
+    'delete_description_confirm' => "Bạn sẽ không thể khôi phục dữ liệu bản ghi này!",
+    'delete_title_confirm' => "Bạn có chắc chắn không?",
+
+    'action_show_data' => 'Hiển thị dữ liệu',
+    'action_add_data' => 'Thêm dữ liệu',
+    'action_delete_selected' => 'Xoá mục đã chọn',
+
+    'action_label' => 'Hành động',
+    'action_detail_data' => 'Dữ liệu Chi tiết',
+    'action_edit_data' => 'Chỉnh sửa Dữ liệu',
+    'action_delete_data' => 'Xoá',
+
+    'button_cancel' => 'Hủy',
+    'button_add' => 'Thêm dữ liệu',
+    'button_edit' => 'Chỉnh sửa Dữ liệu',
+    'button_back' => 'Quay lại',
+    'button_save' => 'Lưu',
+    'button_save_more' => 'Lưu & Thêm Thêm',
+    'button_import' => 'Nhập dữ liệu',
+    'button_export' => 'Xuất Dữ liệu',
+    'button_filter' => 'Sắp xếp & Lọc',
+    'button_close' => 'Đóng',
+    'button_submit' => 'Gửi',
+    'button_logout' => 'Đăng xuất',
+    'button_sign_in' => 'Đăng nhập',
+    'button_selected_action' => 'Tác vụ hàng loạt',
+    'button_download_file' => 'Tải xuống tệp',
+    'button_reset' => 'Đặt lại',
+    'button_add_to_table' => 'Thêm vào Bảng',
+
+    
+'export_dialog_title' => "Xuất Dữ liệu",
+    'export_dialog_filename' => 'Tên tệp',
+    'export_dialog_help_filename' => 'Bạn có thể đổi tên tên tập tin theo ý của bạn',
+    'export_dialog_maxdata' => "Dữ liệu tối đa",
+    'export_dialog_help_maxdata' => 'Tối thiểu 1 và tối đa 100.000 hàng cho mỗi phiên xuất',
+    'export_dialog_columns' => 'Cột',
+    'export_dialog_format_export' => 'Định dạng Xuất',
+    'export_dialog_show_advanced' => 'Hiển thị Xuất Nâng cao',
+    'export_dialog_page_size' => 'Kích thước Trang',
+    'export_dialog_set_default' => 'Đặt làm kích thước giấy mặc định',
+    'export_dialog_page_orientation' => 'Định hướng Trang',
+
+    'import_page_title' => 'Nhập Dữ liệu: module',
+    'dashboard_default_text' => 'Chào mừng bạn đến với trang tổng quan của: appname',
+    'form_back_to_list' => 'Quay lại Danh sách Dữ liệu: module',
+    'not_logged_in' => 'Bạn chưa đăng nhập!',
+    'menu_navigation' => "Điều hướng",
+    'table_data_not_found' => "Không có dữ liệu có sẵn",
+    "notice_delete_file_upload" => "* Nếu bạn muốn tải lên tệp khác, trước tiên hãy xóa tệp.",
+    "file_broken" => "Rất tiếc, dường như Tệp đã bị hỏng! Nhấp vào Xóa và Tải lên lại",
+
+    'denied_access' => 'Xin lỗi bạn không có quyền truy cập khu vực này!',
+    'denied_update' => 'Xin lỗi bạn không có đặc quyền để cập nhật dữ liệu!',
+    'denied_create' => 'Xin lỗi bạn không có đặc quyền để tạo dữ liệu!',
+    'denied_delete' => 'Xin lỗi bạn không có quyền xóa dữ liệu!',
+
+   
+'user_image' => 'Hình ảnh Người dùng',
+    'online' => 'Trực tuyến',
+    'controller_route_404' => 'Bộ điều khiển / Tuyến đường Không tìm thấy',
+    'home' => 'Home',
+    'Notifications' => 'Thông báo',
+    'Privileges' => 'Đặc quyền',
+    'Privileges_Roles' => 'Đặc quyền',
+    'Add_New_Privilege' => 'Thêm đặc quyền mới',
+    'List_Privilege' => 'Danh sách Đặc quyền',
+    'add_user' => 'Thêm người dùng',
+    'List_users' => 'Danh sách admin',
+    'Menu_Management' => 'Quản lý menu',
+    'Add_New_Setting' => 'Thêm Cài đặt Mới',
+    'Add_New_Module' => 'Thêm Mô-đun Mới',
+    'List_Module' => 'Danh sách module',
+    'Add_New_Statistic' => 'Thêm Thống kê Mới',
+    'List_Statistic' => 'Danh sách thống kê     ',
+    'Add_New_API' => 'Thêm API Mới',
+    'API_Generator' => 'Trình tạo API',
+    'Statistic_Builder' => 'Trình Xây dựng Trang chủ',
+    'Module_Generator' => 'Trình tạo module',
+    'settings' => 'Cài đặt',
+    'Users_Management' => 'Quản lý Admin',
+    'list_API' => 'Danh sách API (Tài liệu)',
+    'Generate_Screet_Key' => 'Tạo khóa bí mật',
+    'Add_New_Email' => 'Thêm Email Mới',
+    'List_Email_Template' => 'Liệt kê mẫu email',
+    'Email_Templates' => 'Mẫu email',
+    'Log_User_Access' => 'Lịch sử',
+    'SUPERADMIN' => 'SUPERADMIN',
+
+    'click_here' => 'Nhấp vào đây',
+
+    /*
+     * this is for html direction to use in html and css classes like :
+     * pull-left , pull-right , text-right ...
+     * to make it easy to use the the view for rtl langs .
+     * unless your language use right-to-left direction , you should keep it as it is :
+     */
+    'right' => 'right',
+    'left' => 'left',
+
+    
+    'all_rights_reserved' => 'Tất cả các quyền',
+    'copyright' => 'Bản quyền',
+    'powered_by' => 'Được hỗ trợ bởi',
+
+    'notification_you_have' => 'Bạn có',
+    'notification_notification' => 'Thông báo',
+    'notification_new' => 'Bạn có một thông báo mới!',
+
+    'login_register_style' => 'Đăng nhập Đăng ký Kiểu',
+    'email_setting' => 'Cài đặt Email',
+    'application_setting' => 'Cài đặt ứng dụng',
+    // table filter & sort 
+    
+    'filter_select_operator_type' => 'Chọn Loại Toán tử ',
+    'filter_ascending' => 'TĂNG LÊN',
+    'filter_descending' => 'GIẢM XUỐNG',
+    'filter_equal_to' => '= (Bằng)',
+    'filter_like' => 'GIỐNG NHƯ',
+    'filter_not_like' => 'KHÁC VỚI',
+    'filter_greater_than_or_equal' => '> = (Lớn hơn hoặc bằng)',
+    'filter_less_than_or_equal' => '<= (Nhỏ hơn hoặc bằng)',
+    'filter_less_than' => '<(Ít hơn)',
+    'filter_greater_than' => '> (Lớn hơn)',
+    'filter_not_equal_to' => '! = (Không bằng với)',
+    'filter_in' => 'BỊ CHỨA',
+    'filter_not_in' => 'KHÔNG BỊ CHỨA',
+    'filter_between' => 'GIỮA',
+    'filter_sort_ascending' => 'Sắp xếp tăng dần',
+    'filter_sort_descending' => 'Sắp xếp giảm dần',
+    'filter_eg' => 'VD: ',
+    'filter_lorem_ipsum' => 'mới,hot,..',
+    'filter_lorem_ipsum_dolor_sit' => 'Giải trí, khoa học,...',
+    'filter_search' => 'Tìm kiếm',
+    'filter_from' => 'từ',
+    'filter_to' => 'đến',
+    'filter_sorting' => 'Sắp xếp',
+    'filter_rows_total' => 'Tổng số hàng',
+    'filter_rows_to' => 'thành',
+    'filter_rows_of' => 'của',
+
+    // confirmation
+    'confirmation_yes' => 'Có!',
+    'confirmation_no' => 'Không',
+
+    //filemanager
+    'chose_an_image' => 'Chọn một ảnh',
+    'chose_an_file' => 'Choose một file ',
+
+    //action confirmation
+    'confirmation_title' => 'Xác nhận',
+    'confirmation_text' => 'Bạn đã chắc chưa?',
+    'confirmButtonText' => 'Có',
+
+    // privilege
+    'privile_name' => 'Tên đặc quyền',
+    'privile_super_admin' => 'Quản trị viên cấp cao',
+    'privile_standart_user' => 'Standart user',
+    'privile_ID' => 'ID',
+    'set_as_superadmin' => 'Đặt làm Superadmin',
+    'selected_theme_color_select' => '** Chọn Màu chủ đề phụ trợ',
+    'selected_theme_color' => 'Màu chủ đề',
+    'privile_configuration' => 'Cấu hình Đặc quyền',
+    'privile_module_list_no' => 'Không',
+    'privile_module_list_mod_names' => 'Tên module',
+    'privile_module_list_view' => 'Chế độ xem',
+    'privile_module_list_create' => 'Tạo',
+    'privile_module_list_read' => 'Đọc',
+    'privile_module_list_update' => 'Cập nhật',
+    'privile_module_list_delete' => 'Xoá',
+
+    // datamodal
+    'datamodal_select' => 'Chọn',
+    'datamodal_search_and_enter' => 'Tìm kiếm và nhập ...',
+    'datamodal_enter_to_search' => 'Enter to search',
+    'datamodal_browse_data' => 'Duyệt Dữ liệu',
+    'datamodal_browse_file' => 'Duyệt Tệp',
+
+    //đứa trẻ
+    'table_detail' => 'Bảng Chi tiết',
+    'your_file_size_is_too_big' => 'Kích thước tệp của bạn quá lớn',
+    'save_changes' => 'Lưu Thay đổi',
+    'please_complete_the_form' => 'Vui lòng hoàn tất biểu mẫu!',
+    'this_field_is_required' => 'Trường này là bắt buộc',
+    'text_form' => 'Biểu mẫu',
+    "your_file_extension_is_not_allowed" => "Tiện ích mở rộng tệp của bạn không được phép!",
+];
